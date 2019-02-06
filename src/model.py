@@ -9,6 +9,8 @@
 
 class Rbm:
     def __init__(self):
+        '''Initialization of the model  '''
+
 
 
 
